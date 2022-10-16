@@ -1,4 +1,4 @@
-# UPB-InternetCampus
+# 802.1x-Mschapv2-UPB
 Script bash-openwrt pentru conectarea la internetul din campusul Regie 
 
 Scriptul este predominant al (@DariusIurca) si modificat de mine pentru conflictele generate de pachetul open-ssl.
